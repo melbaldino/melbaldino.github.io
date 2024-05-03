@@ -2,6 +2,15 @@
 title: "Mel Baldino"
 subtitle: "Drones, Restoration Ecology, Wetlands"
 title-block-banner: img/DSCO5064.JPG
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
 image: img/gator.png
 about:
   template: jolla
