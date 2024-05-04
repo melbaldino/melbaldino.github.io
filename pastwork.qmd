@@ -10,6 +10,7 @@ include-in-header:
         height: 200px;
       }
       </style>
+lightbox: true
 ---
 ## Drone Pilot - Louisiana State University
 ### *November 2022 - April 2023*
@@ -18,6 +19,12 @@ include-in-header:
 * Identified Arkansas waterbird species and ducks while flying 
 * Trained classifier in Darwin V7 to identify key species in forests & wetlands from drone images 
 * Created photogrammetry maps for stakeholders interested in how ducks used their land
+
+![Me flying the DJI Matrice 300 RTK in a Cedar Swamp](img/image000000.jpg){group="LSU"}
+![Arkansas Wetland surveyed](img/lsu.jpg){group="LSU"}
+![Red Head Ducks](img/DJI_20230105094152_0143_Z.JPG){group="LSU"}
+![Arkansas Wetland surveyed](img/lsu2.jpg){group="LSU"}
+![Snow Geece](img/DJI_0069.JPG){group="LSU"}
 
 ## Drone Pilot - North Dakota State University
 ### *Aug 2021 - Oct 2021, Aug 2022 - Oct 2022*
