@@ -10,7 +10,10 @@ include-in-header:
         height: 200px;
       }
       </style>
-lightbox: true
+lightbox:
+  match: auto
+  desc-position: bottom
+  loop: true
 ---
 ## Drone Pilot - Louisiana State University
 ### *November 2022 - April 2023*
