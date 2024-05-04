@@ -19,7 +19,7 @@ include-in-header:
 * Trained classifier in Darwin V7 to identify key species in forests & wetlands from drone images 
 * Created photogrammetry maps for stakeholders interested in how ducks used their land
 
-### Drone Pilot - North Dakota State University
+## Drone Pilot - North Dakota State University
 ### *Aug 2021 - Oct 2021, Aug 2022 - Oct 2022*
 
 -   Flew 90 DJI Mavic Pro 2 and DJI Mavic Air 2 flights to monitor blackbird behavior on farms
@@ -34,11 +34,12 @@ include-in-header:
 -   Created informational videos to advertise benefits of sustainable seaweed harvesting
 -   Identified 10 types of native growing seaweed on the coasts of Maine for harvest
 
-##UAV Field Technician - University of Florida 
-###*January 2022 - June 2022* 
+## UAV Field Technician - University of Florida 
+### *January 2022 - June 2022* 
 * Flew daily DJI Inspire and Wingtra flights to catalogue nesting success in Everglades 
 * Conducted monthly aerial surveys by fixed-wing aircraft to identify small wading bird colonies 
-* Monitored 10 wading bird colonies weekly by checking nests along a transect \* Navigated through Everglades while driving airboats (100 hours accumulated) 
+* Monitored 10 wading bird colonies weekly by checking nests along a transect 
+* Navigated through Everglades while driving airboats (100 hours accumulated) 
 * Identified wading birds in colony photos and counted individual nests in Photoshop
 
 ## Wildlife/Habitat Songbird Technician - Oregon State University
