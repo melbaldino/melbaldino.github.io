@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Videography\n\n\nPhotography\n\n\nCreative Writing"
+    "text": "Videography\n\n\nPhotography\n\n\nCreative Writing\n\nMy story “Nosy Neighbor” won the Tiny Terror’s Fan Showcase and can be heard here:"
   },
   {
     "objectID": "pastwork.html",
@@ -173,5 +173,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html#graduate-student-instructor---university-of-california-berkeley",
+    "href": "teaching.html#graduate-student-instructor---university-of-california-berkeley",
+    "title": "Teaching",
+    "section": "Graduate Student Instructor - University of California, Berkeley",
+    "text": "Graduate Student Instructor - University of California, Berkeley\n\nAugust - December 2023\n\n\nCourse: Ecological Analysis\n\nProvided instruction on use of ArcGIS and Excel for landscape ecology/urban planning studies\nResponsible for teaching and grading the work of 50 students\nHeld weekly office hours to troubleshoot ArcGIS difficulties"
   }
 ]

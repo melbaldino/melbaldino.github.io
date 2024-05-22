@@ -12,11 +12,14 @@ include-in-header:
       </style>
 ---
 
-# Videography 
+# Videography
+
+# Photography
 
 
-# Photography 
 
+# Creative Writing
 
-# Creative Writing 
+### My story "Nosy Neighbor" won the Tiny Terror's Fan Showcase and can be heard here: 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WTwyEz3684Hn4aWEii8Um?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
