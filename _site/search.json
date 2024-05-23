@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Videography\n\n\nPhotography\n\nI recently won my department’s photo contest with the following photo, titled “Sea Lion Structures”\n\n\n\n“Sea Lion Structures”\n\n\n\n\nMacro Photography\n\n\nWildlife Photography\n\n\nLandscapes\n\n\n\nCreative Writing\n\nMy story “Nosy Neighbor” won the Tiny Terror’s Fan Showcase and can be heard here:"
+    "text": "Videography\n\n\nPhotography\n\nI recently won my department’s photo contest with the following photo:\n\n\n\n“Sea Lion Structures”\n\n\n\n\nMacro Photography\n\n\nWildlife Photography\n\n\nLandscapes\n\n\n\nCreative Writing\n\nMy story “Nosy Neighbor” won the Tiny Terror’s Fan Showcase and can be heard here:"
   },
   {
     "objectID": "pastwork.html",
@@ -180,5 +180,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Service and Volunteer Work",
+    "section": "",
+    "text": "Field Safety\n\n\nMentoring\n\n\nVolunteer Work"
   }
 ]

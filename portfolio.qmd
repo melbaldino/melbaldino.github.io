@@ -10,20 +10,133 @@ include-in-header:
         height: 200px;
       }
       </style>
+filters: 
+  - lightbox
+lightbox:
+  match: auto
+  desc-position: right
+  loop: true
+  css-class: "my-css-class"
 ---
 
 # Videography
 
 # Photography
-### I recently won my department's photo contest with the following photo, titled "Sea Lion Structures"
+### I recently won my department's photo contest with the following photo:
 !["Sea Lion Structures"](img/DSC04265.JPG)
 
-### Macro Photography
+### Vegetation, Insects, and Fungi
 
-### Wildlife Photography 
+![California Poppy](img/DSC05323.JPG)
+
+![Fungi in coastal Alaska](img/DSC07614.JPG)
+
+![Cattail in Northern Minnesota](img/DSC00862.JPG)
+
+![Fall in Yosemite National Park](img/DSC00877.JPG)
+
+![Slug munching on mushrooms](img/DSC00921.JPG)
+
+![Eastern Lubber Grasshopper](img/DSC01020.JPG)
+
+![Golden Silk Orbweaver in Congaree National Park](img/DSC01040.JPG)
+
+![Bumblebees on Echinacea](img/DSC01533.JPG)
+
+![Goldenrod Soldier Beetle](img/DSC02212.JPG)
+
+![Monarch Butterfly on Echinacea](img/DSC01538.JPG)
+
+![Moth on small yellow flowers](img/DSC02178.JPG)
+
+![Goldenrod Soldier Beetle](img/DSC02194.JPG)
+
+![Narrow-headed Marsh Fly](img/DSC02473.JPG)
+
+![Goldenrod Soldier Beetle & a Bumblebee](img/DSC02216.JPG)
+
+![Beetle in Central Florida](img/DSC03549.JPG)
+
+![Small bee](img/DSC03549.JPG)
+
+![Lupine in Sequoia National Park](img/DSC03726.JPG)
+
+![Spiderweb on Icicle plant](img/DSC03781.JPG)
+
+![California Dandelion](img/DSC03879.JPG)
+
+![Cholla Cactus](img/DSC04420.JPG)
+
+![Banana Slug](img/DSC04804.JPG)
+
+![Fern in coastal Alaska](img/DSC07477.JPG)
+
+![Mushroom in coastal Alaska](img/DSC07754.JPG)
+
+![Frozen sap](img/DSC09005.JPG)
+
+![Bryophytes](img/DSC09161.JPG)
+
+![catching raindrops](img/DSC09989.JPG)
+
+### Wildlife 
+
+![Pronghorn in North Dakota soybean field](img/09DC0D1C-D026-46BA-AC98-8B082AE156E8DSC02817.jpeg)
+
+![Deer in Voyageurs National Park](img/DSC00873.JPG) 
+
+![Lizards in Ivindo National Park, Gabon](img/DSC01354.jpg)
+
+![Bear the lab in Rockweed](img/DSC01464.JPG) 
+
+![Pileated Woodpecker on Isle Royale National Park](img/DSC02137.JPG) 
+
+![Bald Eagle in Voyageurs National Park](img/DSC02137.JPG) 
+
+![Bison in Theodore Roosevelt National Park](img/DSC02645.JPG) 
+
+![Steller's Jay in Rocky Mountain National Park](img/DSC03119.JPG) 
+
+![Northern Mockingbird in Big Bend National Park](img/DSC03472.JPG) 
+
+![Black Bear in Sequoia National Park](img/DSC03752.JPG) 
+
+![California Quail](img/DSC03988.JPG) 
+
+![Bird singing at Point Reyes National Seashore](img/DSC04888.JPG) 
+
+![Elephant seal pups](img/DSC04900.JPG) 
+
+![Tule Elk](img/DSC04949.JPG) 
+
+![Northern Sea Otter](img/DSC07418.JPG) 
+
+![Muskox](img/DSC08490.JPG) 
+
+![Coyote in Alaska](img/DSC08755.JPG) 
 
 ### Landscapes
 
+!["Center of North American Gothic"](img/2817B8D7-6275-417A-B72C-B622EDACE3D4.jpg)
+
+![Baxter State Park, Maine](img/DSC01274.JPG)
+
+![Alaskan Mountains](img/DSC08449.JPG)
+
+![Voyageurs National Park](img/DSC02532.JPG)
+
+![Bison in Theodore Roosevelt National Park](img/DSC02716.JPG)
+
+![Yosemite Valley](img/DSC05064.JPG)
+
+![Lakes of Prince William Sound, Alaska](img/DSC07668.JPG)
+
+![Glacier near Whittier, Alaska](img/DSC08097.jpeg)
+![Mountains near Anchorage, Alaska](img/DSC08444.JPG)
+
+![Mountains outside Denali, Alaska](img/DSC08885.JPG)
+
+![Denali](img/DSC08864.JPG)
 
 # Creative Writing
 
