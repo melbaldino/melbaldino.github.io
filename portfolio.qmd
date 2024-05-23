@@ -27,6 +27,10 @@ lightbox:
 
 ### Vegetation, Insects, and Fungi
 
+:::{layout-ncol=2}
+
+:::{.left}
+
 ![California Poppy](img/DSC05323.JPG)
 
 ![Fungi in coastal Alaska](img/DSC07614.JPG)
@@ -47,7 +51,17 @@ lightbox:
 
 ![Monarch Butterfly on Echinacea](img/DSC01538.JPG)
 
-![Moth on small yellow flowers](img/DSC02178.JPG)
+![Bryophytes](img/DSC09161.JPG)
+
+![catching raindrops](img/DSC09989.JPG)
+
+![Mushroom in coastal Alaska](img/DSC07754.JPG)
+
+![Frozen sap](img/DSC09005.JPG)
+
+:::
+
+:::{.right}
 
 ![Goldenrod Soldier Beetle](img/DSC02194.JPG)
 
@@ -57,7 +71,9 @@ lightbox:
 
 ![Beetle in Central Florida](img/DSC03549.JPG)
 
-![Small bee](img/DSC03549.JPG)
+![Small bee](img/DSC03649.JPG)
+
+![Moth on small yellow flowers](img/DSC02178.JPG)
 
 ![Lupine in Sequoia National Park](img/DSC03726.JPG)
 
@@ -71,27 +87,27 @@ lightbox:
 
 ![Fern in coastal Alaska](img/DSC07477.JPG)
 
-![Mushroom in coastal Alaska](img/DSC07754.JPG)
+:::
 
-![Frozen sap](img/DSC09005.JPG)
+:::
 
-![Bryophytes](img/DSC09161.JPG)
-
-![catching raindrops](img/DSC09989.JPG)
 
 ### Wildlife 
-
 ![Pronghorn in North Dakota soybean field](img/09DC0D1C-D026-46BA-AC98-8B082AE156E8DSC02817.jpeg)
+
+:::{layout-ncol=2}
+
+:::{.left}
 
 ![Deer in Voyageurs National Park](img/DSC00873.JPG) 
 
-![Lizards in Ivindo National Park, Gabon](img/DSC01354.jpg)
+![Black Bear in Sequoia National Park](img/DSC03752.JPG) 
 
 ![Bear the lab in Rockweed](img/DSC01464.JPG) 
 
 ![Pileated Woodpecker on Isle Royale National Park](img/DSC02137.JPG) 
 
-![Bald Eagle in Voyageurs National Park](img/DSC02137.JPG) 
+![Bald Eagle in Voyageurs National Park](img/DSC02398.JPG) 
 
 ![Bison in Theodore Roosevelt National Park](img/DSC02645.JPG) 
 
@@ -99,9 +115,11 @@ lightbox:
 
 ![Northern Mockingbird in Big Bend National Park](img/DSC03472.JPG) 
 
-![Black Bear in Sequoia National Park](img/DSC03752.JPG) 
-
 ![California Quail](img/DSC03988.JPG) 
+
+:::
+
+:::{.right}
 
 ![Bird singing at Point Reyes National Seashore](img/DSC04888.JPG) 
 
@@ -115,28 +133,47 @@ lightbox:
 
 ![Coyote in Alaska](img/DSC08755.JPG) 
 
+![Lizards in Ivindo National Park, Gabon](img/DSC01354.jpg)
+
+:::
+
+:::
+
+
 ### Landscapes
+![Yosemite Valley](img/DSC05064.JPG)
+
+:::{layout-ncol=2}
+
+:::{.left}
 
 !["Center of North American Gothic"](img/2817B8D7-6275-417A-B72C-B622EDACE3D4.jpg)
+
+![Glacier near Whittier, Alaska](img/DSC08097.jpeg)
 
 ![Baxter State Park, Maine](img/DSC01274.JPG)
 
 ![Alaskan Mountains](img/DSC08449.JPG)
 
-![Voyageurs National Park](img/DSC02532.JPG)
+:::
 
-![Bison in Theodore Roosevelt National Park](img/DSC02716.JPG)
-
-![Yosemite Valley](img/DSC05064.JPG)
+:::{.right}
 
 ![Lakes of Prince William Sound, Alaska](img/DSC07668.JPG)
 
-![Glacier near Whittier, Alaska](img/DSC08097.jpeg)
 ![Mountains near Anchorage, Alaska](img/DSC08444.JPG)
 
 ![Mountains outside Denali, Alaska](img/DSC08885.JPG)
 
 ![Denali](img/DSC08864.JPG)
+
+![Voyageurs National Park](img/DSC02532.JPG)
+
+
+:::
+
+:::
+![Bison in Theodore Roosevelt National Park](img/DSC02716.JPG)
 
 # Creative Writing
 
