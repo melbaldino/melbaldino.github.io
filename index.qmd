@@ -22,3 +22,7 @@ linkcolor: blue
 [Github](https://github.com/melbaldino){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Github"}
 
 Mel (she/they) is a PhD student at the University of California, Berkeley in the Environmental Science, Policy, and Management. As a member of Dr. Iryna Dronova's lab, she studies the impacts of carbon sequestration focused wetland restoration on other aspects of the wetland health and function. Using field surveys, drone flights, audio recordings, and satellite imagery, they investigate avian biodiversity, environmental heterogeneity, succession, and productivity in the Sacramento San Joaquin Delta. 
+
+### Background 
+![Dad teaching us about Stone Crab harvesting in Tampa, FL](img/19144133_10213018404085400_5203158128507235519_o.jpg){group="background"}
+![Finding box turtles in the Pine Barrens, NJ](img/19143114_1720325624663108_4592823777565690452_o.jpg){group="background"}

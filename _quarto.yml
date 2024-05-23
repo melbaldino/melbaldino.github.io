@@ -13,6 +13,8 @@ website:
         text: Past Work
       - href: teaching.qmd
         text: Teaching
+      - href: service.qmd
+        text: Service
       - href: portfolio.qmd
         text: Portfolio
       

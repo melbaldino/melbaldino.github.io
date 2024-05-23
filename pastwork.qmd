@@ -20,27 +20,56 @@ lightbox:
 ---
 ## Drone Pilot - Louisiana State University
 ### *November 2022 - April 2023*
+:::{layout-ncol=2}
+
+:::{.left}
 
 * Flew DJI Matrice 300 RTK flights to collect footage of wetland use by ducks and water birds
 * Identified Arkansas waterbird species and ducks while flying 
 * Trained classifier in Darwin V7 to identify key species in forests & wetlands from drone images 
 * Created photogrammetry maps for stakeholders interested in how ducks used their land
 
-::: {layout="[[1, 1], [1]]"}
-![Flying at Lone Cypress Hunting Lodge](img/image000000.jpg){group="lsu"}
-![Arkansas Wetland surveyed](img/lsu.jpg){group="lsu"}
 ![Red Head Ducks](img/DJI_20230105094152_0143_Z.JPG){group="lsu"}
-![Arkansas Wetland surveyed](img/lsu2.jpg){group="lsu"}
+
 ![Snow Geece](img/DJI_0069.JPG){group="lsu"}
+
+![Arkansas Wetland](img/lsu2.jpg){group="lsu"}
 :::
+
+:::{.right}
+
+![Flying at Lone Cypress Hunting Lodge](img/image000000.jpg){group="lsu"}
+
+![Arkansas Wetland](img/lsu.jpg){group="lsu"}
+:::
+
+:::
+
 
 ## Drone Pilot - North Dakota State University
 ### *Aug 2021 - Oct 2021, Aug 2022 - Oct 2022*
 
+:::{layout-ncol=2}
+
+:::{.left}
 -   Flew 90 DJI Mavic Pro 2 and DJI Mavic Air 2 flights to monitor blackbird behavior on farms
 -   Assembled and loaded pesticide spraying drone (DJI Agras MG-1S) in the field
 -   Identified local nesting birds and migratory raptors
 -   Estimated sunflower crop damage created by the blackbird flocks
+
+![Blackbird flock over the sunflower fields](img/DSC00792.JPG){group="ndsu"}
+
+![Yellow Headed Blackbirds and Red Winged Blackbirds ](img/DSC02772.JPG){group="ndsu"}
+
+:::
+
+:::{.right}
+
+Content for column 2 here
+
+:::
+
+:::
 
 ## Drone Pilot/Commercial Fisherman - Vitamin Sea, Maine
 ### *July 2022 - August 2022*
@@ -49,6 +78,9 @@ lightbox:
 -   Created informational videos to advertise benefits of sustainable seaweed harvesting
 -   Identified 10 types of native growing seaweed on the coasts of Maine for harvest
 
+![Harvesting seaweed in Portland, Maine](img/DSC01371.JPG){group="seaweed"}
+![Harvesting sugar kelp in Five Islands, Maine](img/DSC01671.JPG){group="seaweed"}
+
 ## UAV Field Technician - University of Florida 
 ### *January 2022 - June 2022* 
 * Flew daily DJI Inspire and Wingtra flights to catalogue nesting success in Everglades 
@@ -56,6 +88,15 @@ lightbox:
 * Monitored 10 wading bird colonies weekly by checking nests along a transect 
 * Navigated through Everglades while driving airboats (100 hours accumulated) 
 * Identified wading birds in colony photos and counted individual nests in Photoshop
+
+![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+![Roseate Spoonbill chick](img/BNKP4213.JPG){group="uf"}
+![Drone surveys in the Everglades](DJI_0595.JPG){group="uf"}
+
+![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+
 
 ## Wildlife/Habitat Songbird Technician - Oregon State University
 ### *April 2021 - June 2021*
@@ -106,6 +147,12 @@ lightbox:
 * Spent 5 hours in the water per day measuring threat responses of individual goby burrows 
 * Delivered a speed talk and paper presentation
 
+![Parakeet](img/DSC06041.jpeg){group="australia"}
+![Baby seagull](img/DSC06897.jpeg){group="australia"}
+![Heron Island, Australia](img/DSC06952.jpeg){group="australia"}
+![Coral surveying](img/DSC07840.jpeg){group="australia"}
+![Sea turtle hatching](img/DSC08258_1.jpeg){group="australia"}
+
 ## Data Processor - Duke Marine Robotics & Remote Sensing Lab, NC
 ### *January - May 2019*
 -   Designed threat assessment protocol for shrimp gobies in Shark Bay
@@ -120,6 +167,10 @@ lightbox:
 * Searched dung piles thoroughly to retrieve seed models from 120 individual dung piles and marked GPS location to estimate GPT and seed dispersal distances 
 * Assisted in design and development of GPT and seed shadow calculation and visualization code
 
+![Insect surveys](img/DSC00528.jpg){group="gabon"}
+![Kongou Falls, Gabon](img/DSC01579.jpeg){group="gabon"}
+![Kongou Falls, Gabon](img/DSC01616.jpeg){group="gabon"}
+
 ## Undergraduate Research Associate - Rausher Lab - Duke University
 ### *October 2016- May 2018*
 -   Executed PCRs and gel electrophoresis on *Ipomoea lacunosa* and *Ipomoea cordatotriloba* DNA specific to nectar to locate points of similarity and analyze evolutionary speciation
@@ -131,3 +182,15 @@ lightbox:
 -   Designed 14-point protocol for rapid assessment of tropical forest integrity and development in reforested areas to determine impacts of reforestation efforts
 -   Conducted verbal surveys in spanish with farmers on their interest in free reforestation services
 -   Planted 3000+ trees in fincas to create habitat for endemic species
+
+![Tree Nursery with Dama](img/0L1A3652.JPG){group="costarica"}
+
+![Monitoring reforestation success](img/19264286_10154882746048002_1521600845259784721_o.jpg){group="costarica"}
+![Bird Mist Netting](img/0L1A3855.jpg){group="costarica"}
+![Reforestation!](img/19055863_10154839465968002_1618565646694772225_o.jpg){group="costarica"}
+![Working at the Nursery](img/19095445_10154844229448002_323685227192883652_o.jpg){group="costarica"}
+![Soil Profile analysis](img/0L1A3739.jpg){group="costarica"}
+
+![Reforesting cattle pasture](img/19388501_10154864965183002_7837798696874246821_o.jpg){group="costarica"}
+![Soil Profile analysis](img/7.jpg){group="costarica"}
+

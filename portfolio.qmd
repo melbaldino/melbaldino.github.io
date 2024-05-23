@@ -15,7 +15,14 @@ include-in-header:
 # Videography
 
 # Photography
+### I recently won my department's photo contest with the following photo, titled "Sea Lion Structures"
+!["Sea Lion Structures"](img/DSC04265.JPG)
 
+### Macro Photography
+
+### Wildlife Photography 
+
+### Landscapes
 
 
 # Creative Writing
