@@ -94,7 +94,7 @@ background-size: cover;
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -128,6 +128,10 @@ background-size: cover;
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./service.html"> 
+<span class="menu-text">Service</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./portfolio.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
@@ -151,16 +155,72 @@ background-size: cover;
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-jolla content">
   <img src="img/gator.png" class="about-image
   round " style="height: 15em; width: 15em;">
  <main class="content quarto-banner-title-block" id="quarto-document-content">
+
 <p><a href="mailto:melbaldino@berkeley.com" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="Email">Email</a> <a href="https://www.linkedin.com/in/melbaldino" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="LinkedIn">LinkedIn</a> <a href="https://github.com/melbaldino" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="Github">Github</a></p>
 <p>Mel (she/they) is a PhD student at the University of California, Berkeley in the Environmental Science, Policy, and Management. As a member of Dr.&nbsp;Iryna Dronova’s lab, she studies the impacts of carbon sequestration focused wetland restoration on other aspects of the wetland health and function. Using field surveys, drone flights, audio recordings, and satellite imagery, they investigate avian biodiversity, environmental heterogeneity, succession, and productivity in the Sacramento San Joaquin Delta.</p>
+<section id="background" class="level3">
+<h3 data-anchor-id="background">Background</h3>
+<p>I grew up splitting time between coastal New Jersey and Florida. I come from a family of commercial fishermen and curious minds, so I was always interested in understanding my local marine ecosystems. My love for science was reinforced early by my dad, who would take our family fishing and teach us the biology and behavior of everything we caught.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/19144133_10213018404085400_5203158128507235519_o.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Dad teaching us about Stone Crab harvesting in Tampa, FL</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/IMG_2375.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Headed to learn about the ocean</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/Screenshot 2024-01-31 at 3.56.17 PM.png" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Always loved crabbing in my Grundens with Dad</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/IMG_2364.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>My brothers learning about Dad’s catch of the day</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/IMG_2360.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Even Christmas was spent on the boat</figcaption>
+</figure>
+</div>
+<p>In New Jersey, we spent equal amounts of time at the beach and at our family seafood restaurant. <img src="img/IMG_2351.jpg" class="img-fluid" data-group="background" alt="Loving the beach!"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/IMG_2372.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Putting in our time at the Boathouse</figcaption>
+</figure>
+</div>
+<p>I also spent quite a bit of time exploring the New Jersey woods that my cousins lived in.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/19143114_1720325624663108_4592823777565690452_o.jpg" class="img-fluid figure-img" data-group="background"></p>
+<figcaption>Finding box turtles in the Pine Barrens, NJ</figcaption>
+</figure>
+</div>
 
 
+</section>
 </main>  
 </div>
  <!-- /main -->
@@ -238,7 +298,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/melbaldino\.github\.io\/website3\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
