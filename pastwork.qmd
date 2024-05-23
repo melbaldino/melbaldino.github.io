@@ -61,6 +61,17 @@ lightbox:
 
 ![Yellow Headed Blackbirds and Red Winged Blackbirds ](img/DSC02772.JPG){group="ndsu"}
 
+![Blackbird flock over the sunflower fields](img/HDHQ2547.JPG){group="ndsu"}
+
+![Loading the pesticide spraying drone with Avian Repellent](img/IMG_9377.JPG){group="ndsu"}
+
+![Blackbird flock over the sunflower fields](img/IMG_0268.JPG){group="ndsu"}
+
+![Blackbird flock over the sunflower fields](img/MMUZ7635.JPG){group="ndsu"}
+
+![Happy sunflower field](img/IMG_8830.jpeg){group="ndsu"}
+![Blackbird hazing trials](img/Photo_6619667_DJI_531_jpg_5498894_0_202292081456_photo_original.jpg.jpg){group="ndsu"}
+![2022 crew](img/dji_fly_20221019_110952_142_1666195821026_photo.JPG){group="ndsu"}
 :::
 
 :::{.right}
@@ -79,7 +90,14 @@ Content for column 2 here
 -   Identified 10 types of native growing seaweed on the coasts of Maine for harvest
 
 ![Harvesting seaweed in Portland, Maine](img/DSC01371.JPG){group="seaweed"}
+
 ![Harvesting sugar kelp in Five Islands, Maine](img/DSC01671.JPG){group="seaweed"}
+
+![My largest sugar kelp harvest](img/IMG_7281.JPG){group="seaweed"}
+
+![Rockweed harvest](img/IMG_7281.JPG){group="seaweed"}
+
+![Rockweed harvest](img/INMH8779.JPG){group="seaweed"}
 
 ## UAV Field Technician - University of Florida 
 ### *January 2022 - June 2022* 
@@ -90,12 +108,31 @@ Content for column 2 here
 * Identified wading birds in colony photos and counted individual nests in Photoshop
 
 ![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+
 ![Roseate Spoonbill chick](img/BNKP4213.JPG){group="uf"}
+
 ![Drone surveys in the Everglades](DJI_0595.JPG){group="uf"}
 
-![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
-![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
-![Cypress Forest surveying](img/BBLI3657.JPG){group="uf"}
+![Roseate Spoonbill chick](img/ESLD7537.JPG){group="uf"}
+
+![Getting our airboat unstuck](img/IMG_1601.JPEG){group="uf"}
+
+![Nest success transects](img/IMG_1913.JPEG){group="uf"}
+
+![Carrying my drone case through the wetlands](img/IMG_2434.JPEG){group="uf"}
+
+![Driving the airboat](img/IMG_4216.jpeg){group="uf"}
+
+![Launching my drone from the airboat](img/IMG_4637.jpeg){group="uf"}
+![Catching fledgling egrets for mercury sampling](img/IMG_5166.JPG){group="uf"}
+
+![Catching baby gators](img/IQON4732.JPG){group="uf"}
+
+![Stuck in a gator hole](img/KGMO6745.JPG){group="uf"}
+
+![Great Egret chick](img/NOYF0421.JPG){group="uf"}
+
+![Angry chick](img/RKKA0580.JPG){group="uf"}
 
 
 ## Wildlife/Habitat Songbird Technician - Oregon State University
@@ -105,6 +142,26 @@ Content for column 2 here
 -   Sampled and identified local vegetation species inside and outside of grazed pastures
 -   Set camera traps and iButtons in and around nests to monitor predator presence
 -   Trained Kaleidoscope advanced classifier to identify over 10 species of bird calls in local plots
+
+![High desert sage brush](img/IMG_5127.jpeg){group="osu"}
+
+![Setting camera traps](img/IMG_5137.jpeg){group="osu"}
+
+![Nest surveying](img/IMG_5321.jpeg){group="osu"}
+
+![Nest surveying](img/IMG_5220.jpeg){group="osu"}
+
+![Dangers of working on a cattle ranch - barbed wire fences](img/IMG_5337.jpeg){group="osu"}
+
+![Ranch horses](img/IMG_5395.JPG){group="osu"}
+
+![Sage Thrasher nest](img/IMG_5545.JPG){group="osu"}
+
+![Fresh Sage Sparrow chicks](img/IMG_5548.JPG){group="osu"}
+
+![Eggs and chicks sharing a nest](img/IMG_5548.JPG){group="osu"}
+
+
 
 ## Research Assistant - National Oceanic and Atmopsheric Administration
 ### *December 2020 - March 2021*
@@ -119,6 +176,20 @@ Content for column 2 here
 * Carefully removed eggs from hens before fertilizing them using bucks 
 * Removed bad eggs and outside materials before eggs entered an incubator to optimize survival 
 * Seined the approach channel to obtain bucks and hens that would not swim up river
+
+![Observing bryophytes](img/IMG_1973.jpeg){group="alaska"}
+
+![Preparing for egg take](img/IMG_5303.jpeg){group="alaska"}
+
+![Exploring the islands](img/IMG_4983.jpeg){group="alaska"}
+
+![Deep sea crabbing](img/IMG_5066.jpeg){group="alaska"}
+![Humpy (Pink) Salmon](img/IMG_5555.jpeg){group="alaska"}
+
+![Egg Take room](img/IMG_5909.jpeg){group="alaska"}
+![Removing dead salmon from the approach](img/KOLL9187.jpeg){group="alaska"}
+
+![Exploring the mudflats](img/QRGM3415.JPG){group="alaska"}
 
 ## Rachel Carson Scholar - Duke University, NC 
 ### *October 2018 - May 2020* 
@@ -141,6 +212,8 @@ Content for column 2 here
 * Delivered a speed talk and poster session 
 * Presented this work at AGU Ocean Sciences Meeting in February 2020
 
+![2019 Fellows](img/IMG_3949.jpeg){group="ssf"}
+
 ## Research Student - University of Queensland Research Station, Heron Island, AU 
 ### *March 2019* 
 * Designed threat assessment protocol for shrimp gobies in Shark Bay 
@@ -151,7 +224,11 @@ Content for column 2 here
 ![Baby seagull](img/DSC06897.jpeg){group="australia"}
 ![Heron Island, Australia](img/DSC06952.jpeg){group="australia"}
 ![Coral surveying](img/DSC07840.jpeg){group="australia"}
+![Snorkeling for Marine Ecology class](img/IMG_0272 2.jpeg){group="australia"}
+
 ![Sea turtle hatching](img/DSC08258_1.jpeg){group="australia"}
+
+![Making markers for goby dens for our fear response study](img/IMG_0080 2.jpeg){group="australia"}
 
 ## Data Processor - Duke Marine Robotics & Remote Sensing Lab, NC
 ### *January - May 2019*
@@ -170,6 +247,26 @@ Content for column 2 here
 ![Insect surveys](img/DSC00528.jpg){group="gabon"}
 ![Kongou Falls, Gabon](img/DSC01579.jpeg){group="gabon"}
 ![Kongou Falls, Gabon](img/DSC01616.jpeg){group="gabon"}
+
+![Collecting gambeya](img/DSC_1870.jpg){group="gabon"}
+
+![First elephant follow crew](img/DSC_1936.jpg){group="gabon"}
+
+![Our elephants - Porkchop, Rosebud, and Amelia](img/Screen Shot 2018-07-07 at 7.59.02 AM.jpg){group="gabon"}
+
+![Drinking water from lianas in Ivindo National Park](img/DSC_1972.jpg){group="gabon"}
+
+![Second elephant follow crew](img/IMG_0023 2.jpg){group="gabon"}
+
+![Stuck in the mud on a follow](img/IMG_0041 2 2.jpg){group="gabon"}
+
+![Stuck in the mud on a follow](img/IMG_0087.jpg){group="gabon"}
+
+![Visit to Kongou Falls](img/IMG_3722.jpg){group="gabon"}
+
+![Elephant dung!](img/IMG_0102.jpg){group="gabon"}
+
+![Creating elephant dung bait packets for a dung beetle survey](img/IMG_3543.jpg){group="gabon"}
 
 ## Undergraduate Research Associate - Rausher Lab - Duke University
 ### *October 2016- May 2018*
@@ -194,3 +291,6 @@ Content for column 2 here
 ![Reforesting cattle pasture](img/19388501_10154864965183002_7837798696874246821_o.jpg){group="costarica"}
 ![Soil Profile analysis](img/7.jpg){group="costarica"}
 
+![Reforestation in the rain](img/IMG_6306.jpg){group="costarica"}
+
+![Reforestation crew](img/IMG_6353.jpg){group="costarica"}
