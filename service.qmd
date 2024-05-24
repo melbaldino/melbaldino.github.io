@@ -12,10 +12,50 @@ include-in-header:
       </style>
 ---
 
-### Field Safety 
+# Field Safety 
 
-### Mentoring 
+## ESPM Field Safety Committee - Graduate Representative - UC Berkeley 
+##December 2023 - Present
+Organize and advertise Spring 2024 Sexual Assault Prevention in the Field half day training
+Develop and run three graduate student field safety workshops (General UCB Safety, Crew Management, and Identity Based Field Safety) 
 
-### Volunteer Work 
+# Mentoring 
+## College of Natural Resources Mentoring - Mentor - UC Berkeley 	      
+### *September 2023 - December 2023*
+- Mentor two freshman environmental science majors 
+- Meet biweekly to teach time management skills, improve writing style, and discuss professional development
 
+## FEMMES Connect - Mentor - Duke University, NC		     	 
+### *January 2017 - January 2018*
+- Mentored one eight grade student with FEMMES, a program focused on involving young girls in STEM
+- Met biweekly to expose my mentee to available science-oriented experiences on campus, like building robots and learning to code
+- Introduced mentee to multiple labs and prodessors to better understand what a science career might look like
+
+# Volunteer Work 
+
+## ESPM Graduate Student Assembly - UC Berkeley 			      
+### *September 2023 - Present* 
+- *Orientation and Camping Trip Chair (May 2024 - Present)* - Organize and host orientation and annual camping trip for incoming ESPM graduate students
+- *Cohort Social Chair (September 2023 - May 2024)* - Worked on a team to organize community building events between graduate students, faculty, and staff
+
+## Duke Puppy Kindergarten - Volunteer					     
+### *February 2018 - May 2020*
+- *Dorm Puppy Raiser (September 2019 - March 2020)* - Responsible for the training, socializing, husbandry, and overnight housing of a service dog in training for 40 hours a week
+- *Husbandry Volunteer (February 2018 - May 2019)* - Taught CCI puppies basic commands and enforced house training twice weekly during shifts and socialized puppies with Duke Students on and around campus
+- Trained in proper and safe animal training by Duke Canine Cognition Lab
+
+:::{layout-ncol=2}
+
+:::{.left}
+![Happy sunflower field](img/IMG_8830.jpeg){group="ndsu"}
+
+:::
+
+:::{.right}
+
+![Loading the pesticide spraying drone with Avian Repellent](img/IMG_9377.JPG){group="ndsu"}
+
+:::
+
+:::
 
