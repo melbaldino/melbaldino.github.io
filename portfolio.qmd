@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-title-block-banner: images/DSCO5064.JPG
+title-block-banner: img/DJI_0209.JPG
 title-block-banner-color: white
 include-in-header:
   - text: |
@@ -22,15 +22,15 @@ lightbox:
 # Videography
 
 # Photography
+
 ### I recently won my department's photo contest with the following photo:
+
 !["Sea Lion Structures"](img/DSC04265.JPG)
 
 ### Vegetation, Insects, and Fungi
 
-:::{layout-ncol=2}
-
-:::{.left}
-
+::: {layout-ncol="2"}
+::: left
 ![California Poppy](img/DSC05323.JPG)
 
 ![Fungi in coastal Alaska](img/DSC07614.JPG)
@@ -58,11 +58,9 @@ lightbox:
 ![Mushroom in coastal Alaska](img/DSC07754.JPG)
 
 ![Frozen sap](img/DSC09005.JPG)
-
 :::
 
-:::{.right}
-
+::: right
 ![Goldenrod Soldier Beetle](img/DSC02194.JPG)
 
 ![Narrow-headed Marsh Fly](img/DSC02473.JPG)
@@ -86,67 +84,57 @@ lightbox:
 ![Banana Slug](img/DSC04804.JPG)
 
 ![Fern in coastal Alaska](img/DSC07477.JPG)
-
+:::
 :::
 
-:::
+### Wildlife
 
-
-### Wildlife 
 ![Pronghorn in North Dakota soybean field](img/09DC0D1C-D026-46BA-AC98-8B082AE156E8DSC02817.jpeg)
 
-:::{layout-ncol=2}
+::: {layout-ncol="2"}
+::: left
+![Deer in Voyageurs National Park](img/DSC00873.JPG)
 
-:::{.left}
+![Black Bear in Sequoia National Park](img/DSC03752.JPG)
 
-![Deer in Voyageurs National Park](img/DSC00873.JPG) 
+![Bear the lab in Rockweed](img/DSC01464.JPG)
 
-![Black Bear in Sequoia National Park](img/DSC03752.JPG) 
+![Pileated Woodpecker on Isle Royale National Park](img/DSC02137.JPG)
 
-![Bear the lab in Rockweed](img/DSC01464.JPG) 
+![Bald Eagle in Voyageurs National Park](img/DSC02398.JPG)
 
-![Pileated Woodpecker on Isle Royale National Park](img/DSC02137.JPG) 
+![Bison in Theodore Roosevelt National Park](img/DSC02645.JPG)
 
-![Bald Eagle in Voyageurs National Park](img/DSC02398.JPG) 
+![Steller's Jay in Rocky Mountain National Park](img/DSC03119.JPG)
 
-![Bison in Theodore Roosevelt National Park](img/DSC02645.JPG) 
+![Northern Mockingbird in Big Bend National Park](img/DSC03472.JPG)
 
-![Steller's Jay in Rocky Mountain National Park](img/DSC03119.JPG) 
-
-![Northern Mockingbird in Big Bend National Park](img/DSC03472.JPG) 
-
-![California Quail](img/DSC03988.JPG) 
-
+![California Quail](img/DSC03988.JPG)
 :::
 
-:::{.right}
+::: right
+![Bird singing at Point Reyes National Seashore](img/DSC04888.JPG)
 
-![Bird singing at Point Reyes National Seashore](img/DSC04888.JPG) 
+![Elephant seal pups](img/DSC04900.JPG)
 
-![Elephant seal pups](img/DSC04900.JPG) 
+![Tule Elk](img/DSC04949.JPG)
 
-![Tule Elk](img/DSC04949.JPG) 
+![Northern Sea Otter](img/DSC07418.JPG)
 
-![Northern Sea Otter](img/DSC07418.JPG) 
+![Muskox](img/DSC08490.JPG)
 
-![Muskox](img/DSC08490.JPG) 
-
-![Coyote in Alaska](img/DSC08755.JPG) 
+![Coyote in Alaska](img/DSC08755.JPG)
 
 ![Lizards in Ivindo National Park, Gabon](img/DSC01354.jpg)
-
 :::
-
 :::
-
 
 ### Landscapes
+
 ![Yosemite Valley](img/DSC05064.JPG)
 
-:::{layout-ncol=2}
-
-:::{.left}
-
+::: {layout-ncol="2"}
+::: left
 !["Center of North American Gothic"](img/2817B8D7-6275-417A-B72C-B622EDACE3D4.jpg)
 
 ![Glacier near Whittier, Alaska](img/DSC08097.jpeg)
@@ -154,11 +142,9 @@ lightbox:
 ![Baxter State Park, Maine](img/DSC01274.JPG)
 
 ![Alaskan Mountains](img/DSC08449.JPG)
-
 :::
 
-:::{.right}
-
+::: right
 ![Lakes of Prince William Sound, Alaska](img/DSC07668.JPG)
 
 ![Mountains near Anchorage, Alaska](img/DSC08444.JPG)
@@ -168,15 +154,15 @@ lightbox:
 ![Denali](img/DSC08864.JPG)
 
 ![Voyageurs National Park](img/DSC02532.JPG)
-
-
+:::
 :::
 
-:::
 ![Bison in Theodore Roosevelt National Park](img/DSC02716.JPG)
 
 # Creative Writing
 
-### My story "Nosy Neighbor" won the Tiny Terror's Fan Showcase and can be heard here: 
+### My story "Nosy Neighbor" won the Tiny Terror's Fan Showcase and can be heard here:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WTwyEz3684Hn4aWEii8Um?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WTwyEz3684Hn4aWEii8Um?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>

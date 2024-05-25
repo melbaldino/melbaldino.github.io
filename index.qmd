@@ -1,7 +1,7 @@
 ---
 title: "Mel Baldino"
 subtitle: "Drones, Restoration Ecology, Wetlands"
-title-block-banner: img/DSC05064.JPG
+title-block-banner: img/DJI_0209.JPG
 title-block-banner-color: white
 include-in-header:
   - text: |
