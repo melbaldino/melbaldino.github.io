@@ -14,12 +14,27 @@ include-in-header:
 
 # Field Safety 
 
-## ESPM Field Safety Committee - Graduate Representative - UC Berkeley 
-##December 2023 - Present
-Organize and advertise Spring 2024 Sexual Assault Prevention in the Field half day training
-Develop and run three graduate student field safety workshops (General UCB Safety, Crew Management, and Identity Based Field Safety) 
+### After eight years as a field technician, field safety has become a passion of mine. 
+Field research is inherently dangerous, but we can be safe and prepared if we follow proper planning and value field safety in the workplace. As a graduate student, I have made it a priority of mine to improve the field safety resources and culture in my department. 
+
+As a graduate student representative on the *ESPM Field Safety Committee*, I have
+
+- created three graduate student field safety workshops (General UCB Safety, Crew Management, and Identity Based Field Safety) 
+- offered the General UCB Safety workshop for graduate students 
+- attended the inaugural UC Field Safety Conference and the UC Queer/Trans Student Field Safety Conference 
+
+Our team as a whole 
+
+- organized and advertised Spring 2024 Sexual Assault Prevention in the Field half day training
+- created an ESPM specific Field Safety Plan Template 
+- surveyed nearly 500 students and researchers on the safety of their field experiences at UC Berkeley
+- collected and redacted example field safety plans for reference 
+- drafted a list of recommendations for the department to improve field safety in the future
+
+You can see our work [here!](https://ourenvironment.berkeley.edu/service-portal/field-safety)
 
 # Mentoring 
+
 ## College of Natural Resources Mentoring - Mentor - UC Berkeley 	      
 ### *September 2023 - December 2023*
 - Mentor two freshman environmental science majors 
@@ -47,14 +62,28 @@ Develop and run three graduate student field safety workshops (General UCB Safet
 :::{layout-ncol=2}
 
 :::{.left}
-![Happy sunflower field](img/IMG_8830.jpeg){group="ndsu"}
+![Me and Weston, who I raised in my dorm!](img/IMG_3541.jpg){group="puppy"}
+
+![Jordan and I with dorm puppy Zola](img/IMG_9287.jpeg){group="puppy"}
+
+![Zola ready for a Duke Basketball game!](img/IMG_9510.jpg){group="puppy"}
+
+![Jordan and I raised Zola in our dorm](img/XZPT8507.JPG){group="puppy"}
+
 
 :::
 
 :::{.right}
 
-![Loading the pesticide spraying drone with Avian Repellent](img/IMG_9377.JPG){group="ndsu"}
+![Weston (far right) graduating from puppy kindergarten (credit: Duke Canine Cognition Center)](img/IMG_3542.jpg){group="puppy"}
 
+![Getting puppies socialized](img/IMG_1999 2.jpg){group="puppy"}
+
+![Recess!](img/IMG_2076.jpg){group="puppy"}
+
+![Getting puppy comfortable with being held](img/IMG_5359.jpeg){group="puppy"}
+
+![Sleepy puppies at Kindergarten](img/IMG_1496.jpg){group="puppy"}
 :::
 
 :::
