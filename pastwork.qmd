@@ -122,6 +122,8 @@ lightbox:
 * Navigated through Everglades while driving airboats (100 hours accumulated) 
 * Identified wading birds in colony photos and counted individual nests in Photoshop
 
+You can read about it [here!](https://www.csmonitor.com/Environment/2022/0616/River-of-Grass-Inside-the-quest-to-restore-the-Everglades)
+
 :::{layout-ncol=2}
 
 :::{.left}
@@ -317,6 +319,10 @@ lightbox:
 * Followed collared elephants on three 10-day follows through Ivindo National Park 
 * Searched dung piles thoroughly to retrieve seed models from 120 individual dung piles and marked GPS location to estimate GPT and seed dispersal distances 
 * Assisted in design and development of GPT and seed shadow calculation and visualization code
+
+Beirne, Christopher, Nuñez, Chase L., **Baldino, Melissa**, Kim, Seokmin, Knorr, Julia, et al. (2019) [Estimation of gut passage time of wild, free roaming forest elephants](https://bioone.org/journals/wildlife-biology/volume-2019/issue-1/wlb.00543/Estimation-of-gut-passage-time-of-wild-free-roaming-forest/10.2981/wlb.00543.full). Wildlife Biology 1 : 1-7.
+
+Poulsen JR, Beirne C, Rundel C, **Baldino M**, Kim S, Knorr J, et al. (2021) [Long Distance Seed Dispersal by Forest Elephants](https://www.frontiersin.org/articles/10.3389/fevo.2021.789264). Front. Ecol. Evol. 9:789264. doi: 10.3389/fevo.2021.789264 
 
 :::{layout-ncol=2}
 
