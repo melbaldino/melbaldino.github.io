@@ -21,9 +21,8 @@ lightbox:
 
 # Videography
 
-![Vitamin Sea commercial]()
-
-![Alicia and Lynette's Wedding]()
+{{< video https://www.youtube.com/embed/K58JXwYousA?si=ddeXIMksilF_hpT_ >}}
+Commercial from my time at Vitamin Sea seaweed in Portland, Maine
 
 # Photography
 
