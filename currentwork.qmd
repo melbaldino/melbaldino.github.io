@@ -13,15 +13,19 @@ include-in-header:
 ---
 
 # Carbon Restored Wetland Ecology 
+![Dr. Iryna Dronova and I conducting bird sampling in Mayberry Slough](img/summer2024/DJI_0229.JPG){.lightbox}
+
 ### My dissertation research aims to understand how restoring wetlands with only carbon sequestration in mind affects other aspects of the ecosystem. 
 
 In the Sacramento-San Joaquin Delta, 97% of the historic wetlands were transitioned to agriculture. Over time, these losses triggered subsidence, exposing the peat in the soil to oxygen and releasing large amounts of carbon into the atmosphere. To combat that, wetland restoration in the area has focused on growing vegetation and sequestering carbon that was lost in the process of subsidence. 
 
 Now, there are a variety of carbon restored wetlands of different ages in the area. My work will study the biodiversity (birds and vegetation), carbon sequestration, and environmental heterogeneity across these wetlands.
 
+![Gilbert Track wetland in Dutch Slough (lower third) with a gas flux tower, levee (middle third), and the Delta (top third)](img/summer2024/DJI_0143.JPG){.lightbox}
 
-![](img/IMG_5617.jpeg){.lightbox}
+![East End wetland on Twitchell Island](img/summer2024/DJI_0219.JPG){.lightbox}
 
+![Mayberry Slough wetland on Sherman Island](img/summer2024/DJI_0227.JPG){.lightbox}
 
 ***To explore the impacts of carbon restoration, I will investigate the following questions:*** 
 
@@ -39,27 +43,75 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 
 **Alternative hypothesis:** Highest productivity will occur at latest stages of succession when full canopy cover has increased vegetation biomass and soil build-up, but biodiversity may saturate due to habitat homogenization and may require management interventions such as vegetation clearing.
 
-## Field Work & Drones 
+## Biodiversity 
 
 :::{layout-ncol=2}
 
 :::{.left}
 
-![](img/IMG_5613.jpeg){.lightbox}
+![Family of Mute Swans in Dutch Slough](img/summer2024/DSC05445.JPG){.lightbox}
 
-![](img/IMG_5614.jpeg){.lightbox}
+![Great Egret in Twitchell Island](img/summer2024/DSC06328.JPG){.lightbox}
 
-![](img/IMG_5669.jpg){.lightbox}
+![Northern Harriers in Mayberry Slough](img/summer2024/DSC06422.JPG){.lightbox}
+
+![Mute Swan in Twitchell Island](img/summer2024/DSC06549.JPG){.lightbox}
+
+![Egrets in Hill Slough](img/summer2024/DSC06313.JPG){.lightbox}
+
+![Audio Recorders and Camera Traps set in Mayberry Slough](img/summer2024/DSC06819.JPG){.lightbox}
+
+
+
 :::
 
 :::{.right}
 
-![](img/IMG_5630.jpeg){.lightbox}
+![Otters in Hill Slough](img/summer2024/DSC06248.JPG){.lightbox}
 
-![](img/IMG_5674.jpeg){.lightbox}
+![Barn Owl in pasture next to Mayberry Slough](img/summer2024/DSC06796.JPG){.lightbox}
+
+![Egrets in Hill Slough](img/summer2024/DSC06420.JPG){.lightbox}
+
+![Skull in Mayberry Slough](img/summer2024/DSC06331.JPG){.lightbox}
+
+![Brown-headed Cowbird in Dutch Slough](img/summer2024/DSC06118.JPG){.lightbox}
+
+![Swans in Dutch Slough](img/summer2024/IMG_3731.JPG){.lightbox}
+
+![Coyotes in Hill Slough](img/summer2024/DSC06674.JPG){.lightbox}
+
+![](img/summer2024/DSC06564.JPG){.lightbox}
+
+:::
+
+:::
+
+## Carbon Sequestration
+
+:::{layout-ncol=2}
+
+:::{.left}
+
+![Vegetation in Twitchell Island wetlands sequester carbon for the ecosystem](img/summer2024/DJI_0231.JPG){.lightbox}
+
+![East End wetland gas flux tower (left)](img/summer2024/DJI_0219.JPG){.lightbox}
+
+![Flux tower at Hill Slough](img/summer2024/DSC06645.JPG){.lightbox}
+
+:::
+
+:::{.right}
+![Great-tailed Grackle on the flux tower in Dutch Slough](img/summer2024/DSC06147.JPG){.lightbox}
+
+![Hill Slough](img/summer2024/dji_fly_20240711_055938_187_1720702789707_photo.jpg){.lightbox}
+
+![Mayberry Slough](img/summer2024/dji_fly_20240711_075748_190_1720710004271_photo.jpg){.lightbox}
+
 :::
 
 :::
 
 
-## Satellite Remote Sensing 
+
+
