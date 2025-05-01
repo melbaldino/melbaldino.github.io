@@ -17,10 +17,10 @@ include-in-header:
 ### After eight years as a field technician, field safety has become a passion of mine. 
 Field research is inherently dangerous, but we can be safe and prepared if we follow proper planning and value field safety in the workplace. As a graduate student, I have made it a priority of mine to improve the field safety resources and culture in my department. 
 
-As a graduate student representative on the *ESPM Field Safety Committee*, I have
+As a graduate student representative on the *ESPM Field Safety Committee* since Fall 2023, I have
 
 - created three graduate student field safety workshops (General UCB Safety, Crew Management, and Identity Based Field Safety) 
-- offered the General UCB Safety workshop for graduate students 
+- offered the workshops to the larger graduate student population and guest lectured in the required first year graduate class
 - attended the inaugural UC Field Safety Conference and the UC Queer/Trans Student Field Safety Conference 
 
 Our team as a whole 
@@ -29,22 +29,29 @@ Our team as a whole
 - created an ESPM specific Field Safety Plan Template 
 - surveyed nearly 500 students and researchers on the safety of their field experiences at UC Berkeley
 - collected and redacted example field safety plans for reference 
-- drafted a list of recommendations for the department to improve field safety in the future
+- submitted a list of recommendations for the department to improve field safety in the future, which were voted into effect in Fall 2024
+- established a safety gear sharing resource for graduate students in ESPM including satellite phones and personal safety gear
 
 You can see our work [here!](https://ourenvironment.berkeley.edu/service-portal/field-safety)
 
-# Mentoring 
+# Mentoring Experience 
+## Sponsored Projects for Undergraduate Research (SPUR) Mentor - UC Berkeley, CA
+## *February 2024 – Present*
 
-## College of Natural Resources Mentoring - Mentor - UC Berkeley 	      
-### *September 2023 - December 2023*
-- Mentor two freshman environmental science majors 
-- Meet biweekly to teach time management skills, improve writing style, and discuss professional development
+As a SPUR mentor, I have created positions within my research for undergraduate students to gain valuable skills and research experience early in their career for college credit. My first SPUR student worked with me to complete a literature review on the study of biodiversity and biogeochemical cycling in wetlands. I taught her the process behind a literature review, and we met weekly to discuss our findings. We are currently drafting a manuscript from this project for publication which will be my student’s first publication. 
 
-## FEMMES Connect - Mentor - Duke University, NC		     	 
-### *January 2017 - January 2018*
-- Mentored one eight grade student with FEMMES, a program focused on involving young girls in STEM
-- Met biweekly to expose my mentee to available science-oriented experiences on campus, like building robots and learning to code
-- Introduced mentee to multiple labs and prodessors to better understand what a science career might look like
+In addition, I have been joined by five students in the field through SPUR. In my local restored wetland sites, my students conduct point counts for birds at sunrise, assist in my drone flights over the landscape, and set audio recording equipment. They each have the opportunity to learn applicable field skills and get experience flying drones, which will open further field opportunities to them if they are interested. I am mentoring one of these students on her senior thesis as she investigates carbon and algae in our wetlands. 
+
+## College of Natural Resources Mentoring - Mentor - UC Berkeley, CA 	      
+## *September 2023 – May 2024*
+
+I mentored two environmental science majors who recently finished their freshman year. We met biweekly to work on areas they were interested in improving: time management, writing styles, and creating college level work. In addition, I gathered advice and resources from my colleagues in legal careers and law schools that my students were interested in pursuing. 
+
+## Females and Allies Excelling More in Math, Engineering, and Science (FEMMES) Connect Mentor - Duke University, NC		     	 
+## *January 2017 - January 2018*
+
+As a FEMMES Mentor, I worked with my mentee, an eighth grade girl, to show her potential career pathways that are open to her in science. She expressed an interest in research but was unsure what those jobs actually looked like. I brought her for a tour of the genetics lab and greenhouse I was working in, built robots with her, and helped her meet other female science students in other fields like medicine and chemistry. 
+
 
 # Volunteer Work 
 
