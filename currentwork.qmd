@@ -59,9 +59,7 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 
 ![Egrets in Hill Slough](img/summer2024/DSC06313.JPG){.lightbox}
 
-![Audio Recorders and Camera Traps set in Mayberry Slough](img/summer2024/DSC06819.JPG){.lightbox}
-
-
+![Great-tailed Grackles in Mayberry Slough](img/DSC09854.JPG){.lightbox}
 
 :::
 
@@ -82,6 +80,8 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 ![Coyotes in Hill Slough](img/summer2024/DSC06674.JPG){.lightbox}
 
 ![](img/summer2024/DSC06564.JPG){.lightbox}
+
+![Sandhill Cranes in Mayberry Slough](img/DSC08144.JPG){.lightbox}
 
 :::
 
@@ -104,14 +104,63 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 :::{.right}
 ![Great-tailed Grackle on the flux tower in Dutch Slough](img/summer2024/DSC06147.JPG){.lightbox}
 
-![Hill Slough](img/summer2024/dji_fly_20240711_055938_187_1720702789707_photo.jpg){.lightbox}
+![Springtime vegetation near the flux tower in Mayberry Slough](img/DJI-0729.JPG){.lightbox}
+
+![Praying Mantis on a Flux Tower rainwater catcher](img/DSC07307.JPG){.lightbox}
+
+
+:::
+
+:::
+
+
+## Environmental Heterogeneity 
+
+:::{layout-ncol=2}
+
+:::{.left}
 
 ![Mayberry Slough](img/summer2024/dji_fly_20240711_075748_190_1720710004271_photo.jpg){.lightbox}
 
+![Hill Slough](img/summer2024/dji_fly_20240711_055938_187_1720702789707_photo.jpg){.lightbox}
+:::
+
+:::{.right}
+
+![Mayberry Slough from above](img/DJI-0298.JPG){.lightbox}
+
+![Wooded, herbaceous, and grassy vegetation patches](img/DJI-0298.JPG){.lightbox}
+
 :::
 
 :::
 
 
 
+## Fieldwork
+
+:::{layout-ncol=2}
+
+:::{.left}
+
+![Audio Recorders and Camera Traps set in Mayberry Slough](img/summer2024/DSC06819.JPG){.lightbox}
+
+![Crawfish catching](img/DSC07003.JPG){.lightbox}
+
+![Flux tower view of newly restored mudflat and older established marsh](img/DSC09490.JPG){.lightbox}
+
+![Sheep that help maintain the levee vegetation enjoying a hay bale](img/DSC09916.JPG){.lightbox}
+
+:::
+
+:::{.right}
+
+![Timelapse Camera Traps in springtime vegetation on Sherman Island](img/DSC00432.JPG){.lightbox}
+
+![Working in Twitchell Island with undergraduates Maggie and Cleo](img/DJI-0315.JPG){.lightbox}
+
+![Visiting student Leire inspecting the flux tower](img/DSC09113.JPG){.lightbox}
+:::
+
+:::
 
