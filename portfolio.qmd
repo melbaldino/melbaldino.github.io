@@ -26,13 +26,19 @@ Commercial from my time at Vitamin Sea seaweed in Portland, Maine
 
 # Photography
 **I won my college's 50th anniversary photo contest and my department's graduate student photo contest in 2024 with the following photos:**
+
 ::: {layout-ncol="2"}
 ::: left
+
 ![Barn Owl in pasture next to Mayberry Slough](img/summer2024/DSC06796.JPG){.lightbox}
+
 :::
 
 ::: right
+
 !["Sea Lion Structures"](img/DSC04265.JPG)
+
+:::
 :::
 
 ### Vegetation, Insects, and Fungi

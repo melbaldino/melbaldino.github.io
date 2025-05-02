@@ -104,7 +104,7 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 :::{.right}
 ![Great-tailed Grackle on the flux tower in Dutch Slough](img/summer2024/DSC06147.JPG){.lightbox}
 
-![Springtime vegetation near the flux tower in Mayberry Slough](img/DJI-0729.JPG){.lightbox}
+![Springtime vegetation near the flux tower in Mayberry Slough](img/DJI_0729.JPG){.lightbox}
 
 ![Praying Mantis on a Flux Tower rainwater catcher](img/DSC07307.JPG){.lightbox}
 
@@ -127,9 +127,9 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 
 :::{.right}
 
-![Mayberry Slough from above](img/DJI-0298.JPG){.lightbox}
+![Mayberry Slough from above](img/DJI_0298.JPG){.lightbox}
 
-![Wooded, herbaceous, and grassy vegetation patches](img/DJI-0298.JPG){.lightbox}
+![Wooded, herbaceous, and grassy vegetation patches](img/DJI_0753.JPG){.lightbox}
 
 :::
 
