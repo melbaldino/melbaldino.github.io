@@ -19,7 +19,7 @@ include-in-header:
 
 In the Sacramento-San Joaquin Delta, 97% of the historic wetlands were transitioned to agriculture. Over time, these losses triggered subsidence, exposing the peat in the soil to oxygen and releasing large amounts of carbon into the atmosphere. To combat that, wetland restoration in the area has focused on growing vegetation and sequestering carbon that was lost in the process of subsidence. 
 
-Now, there are a variety of carbon restored wetlands of different ages in the area. My work will study the biodiversity (birds and vegetation), carbon sequestration, and environmental heterogeneity across these wetlands.
+Now, there are a variety of carbon restored wetlands of different ages in the area. My work uses remote sensing techniques to understand how restoration and management choices impact the biodiversity (birds and vegetation), carbon sequestration, and environmental heterogeneity across these wetlands.
 
 ![Gilbert Track wetland in Dutch Slough (lower third) with a gas flux tower, levee (middle third), and the Delta (top third)](img/summer2024/DJI_0143.JPG){.lightbox}
 
@@ -83,6 +83,26 @@ Now, there are a variety of carbon restored wetlands of different ages in the ar
 
 ![Sandhill Cranes in Mayberry Slough](img/DSC08144.JPG){.lightbox}
 
+:::
+
+:::
+
+## Remote Sensing
+:::{layout-ncol=2}
+
+:::{.left}
+
+![Raccoon portrait](img/spring2026/WSCT5834.jpeg){.lightbox}
+![Otter basking in the sun](img/spring2026/WSCT5642.jpeg){.lightbox}
+![Jumping raccoon](img/spring2026/WSCT6530.jpg){.lightbox}
+![Otter family](img/spring2026/WSCT9631.jpg){.lightbox}
+:::
+
+:::{.right}
+
+![Mute Swan looking at camera](img/spring2026/WSCT0490.jpeg){.lightbox}
+![Beavers](img/spring2026/WSCT4921.jpg){.lightbox}
+![Family of raccoons](img/spring2026/WSCT3949.jpeg){.lightbox}
 :::
 
 :::
