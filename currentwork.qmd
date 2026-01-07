@@ -13,7 +13,7 @@ include-in-header:
 ---
 
 # Carbon Restored Wetland Ecology 
-![Dr. Iryna Dronova and I conducting bird sampling in Mayberry Slough](img/summer2024/DJI_0229.JPG){.lightbox}
+![Dr. Iryna Dronova and I conducting bird sampling in Mayberry Slough](img/summer2024/DJI_0229.JPG){.lightbox} 
 
 ### My dissertation research aims to understand how restoring wetlands with only carbon sequestration in mind affects other aspects of the ecosystem. 
 
