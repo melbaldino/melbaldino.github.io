@@ -77,7 +77,16 @@ Finally, I have mentored four undergraduate students on their thesis projects in
 
 Outside of the field, I work with the Echeverri Lab to mentor three engineering students while building remote sensing tools for biodiversity monitoring. 
 
+:::{layout-ncol=2}
+
+:::{.left}
 ![URAP meeting](img/spring2026/URAP_SPUR_Tony_Mel_Building_biotech.jpeg){.lightbox}
+:::
+
+:::{.right}
+![Engineers in the field](img/spring2026/081497a6-a63b-4616-ba0f-a05be0fb694f.JPG){.lightbox}
+:::
+:::
 
 ## College of Natural Resources Mentoring - Mentor - UC Berkeley, CA 	      
 ## *September 2023 – May 2024*
