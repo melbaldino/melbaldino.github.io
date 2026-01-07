@@ -21,18 +21,19 @@ As a graduate student representative on the *ESPM Field Safety Committee* since 
 
 - created three graduate student field safety workshops (General UCB Safety, Crew Management, and Identity Based Field Safety) 
 - offered the workshops to the larger graduate student population and guest lectured in the required first year graduate class
-- attended the inaugural UC Field Safety Conference and the UC Queer/Trans Student Field Safety Conference 
+- attended the inaugural UC Field Safety Conference and the UC Queer/Trans Student Field Safety Conference
+- built our gear sharing library, resource collection, and website
 
 Our team as a whole 
 
-- organized and advertised Spring 2024 Sexual Assault Prevention in the Field half day training
+- organized and advertised Sexual Assault Prevention in the Field and Wilderness First Aid trainings
 - created an ESPM specific Field Safety Plan Template 
 - surveyed nearly 500 students and researchers on the safety of their field experiences at UC Berkeley
 - collected and redacted example field safety plans for reference 
 - submitted a list of recommendations for the department to improve field safety in the future, which were voted into effect in Fall 2024
-- established a safety gear sharing resource for graduate students in ESPM including satellite phones and personal safety gear
+- established a [safety gear sharing resource](https://sites.google.com/berkeley.edu/espm-field-safety-gear-sharing/home) for graduate students in ESPM including satellite phones and personal safety gear
 
-You can see our work [here!](https://ourenvironment.berkeley.edu/service-portal/field-safety)
+You can see our work [here!](https://sites.google.com/berkeley.edu/espm-field-safety/)
 
 # Mentoring Experience 
 ## Sponsored Projects for Undergraduate Research (SPUR) Mentor - UC Berkeley, CA
@@ -40,7 +41,13 @@ You can see our work [here!](https://ourenvironment.berkeley.edu/service-portal/
 
 As a SPUR mentor, I have created positions within my research for undergraduate students to gain valuable skills and research experience early in their career for college credit. My first SPUR student worked with me to complete a literature review on the study of biodiversity and biogeochemical cycling in wetlands. I taught her the process behind a literature review, and we met weekly to discuss our findings. We are currently drafting a manuscript from this project for publication which will be my student’s first publication. 
 
-In addition, I have been joined by five students in the field through SPUR. In my local restored wetland sites, my students conduct point counts for birds at sunrise, assist in my drone flights over the landscape, and set audio recording equipment. They each have the opportunity to learn applicable field skills and get experience flying drones, which will open further field opportunities to them if they are interested. I am mentoring one of these students on her senior thesis as she investigates carbon and algae in our wetlands. 
+Over the past three years, I have been joined by eight students in the field through SPUR. In my local restored wetland sites, my students conduct point counts for birds at sunrise, assist in my drone flights over the landscape, and set audio recording equipment. They each have the opportunity to learn applicable field skills and get experience flying drones, which will open further field opportunities to them if they are interested. 
+
+Finally, I have mentored four undergraduate students on their thesis projects in the restored wetlands: 
+- Ethan Aquino studying the impact of adding upland trees on avian biodiversity
+- Eden Gonzalez studying the connection between microalgae and the carbon cycle via remote sensing
+- Addie Bugas monitoring invasive species spread through drone and satellite imagery
+- Joohwan Yoo testing the impact of adding microplastics into restored wetland flooded soils
 
 ![Setting camera traps with undergraduates Maggie and Cleo](img/DSC07314.JPG){.lightbox}
 
@@ -49,16 +56,28 @@ In addition, I have been joined by five students in the field through SPUR. In m
 :::{.left}
 
 ![Julia measuring the height of Phragmites in Mayberry Slough](img/IMG_9969.jpeg){.lightbox}
-
+![Addie changing camera trap equipment in Dutch Slough](img/spring2026/DSC02453.jpg){.lightbox}
+![Ethan and Aidan measuring tree heights in Mayberry Slough](img/spring2026/DSC03218.jpg){.lightbox}
+![Joohwan catching crawfish in Whale's Mouth](img/spring2026/IMG_4653.jpeg){.lightbox}
 :::
 
 :::{.right}
-
+![Joohwan collecting water and soil samples in Twitchell Island](img/spring2026/IMG_5345.jpeg){.lightbox}
 ![Charlie catching dragonflies in Twitchell Island](img/IMG_4842.jpeg){.lightbox}
+![Eden trawling for algae in Mayberry Slough](img/spring2026/DSC02020.jpg){.lightbox}
+
+![Ethan measuring vegetation in Dutch Slough](img/spring2026/IMG_5418.jpeg){.lightbox}
 :::
 
 :::
 
+![Aidan and Weiran conducting point counts in Twitchell Island](img/spring2026/DSC04123.JPG){.lightbox}
+
+![Fall field crew at Hill Slough](img/spring2026/IMG_7027.jpeg){.lightbox}
+
+Outside of the field, I work with the Echeverri Lab to mentor three engineering students while building remote sensing tools for biodiversity monitoring. 
+
+![URAP meeting](img/spring2026/URAP_SPUR_Tony_Mel_Building_biotech.jpeg){.lightbox}
 
 ## College of Natural Resources Mentoring - Mentor - UC Berkeley, CA 	      
 ## *September 2023 – May 2024*
