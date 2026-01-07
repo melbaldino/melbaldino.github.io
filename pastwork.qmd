@@ -24,7 +24,7 @@ lightbox:
 
 :::{.left}
 
-* Flew DJI Matrice 300 RTK flights to collect footage of wetland use by ducks and water birds
+* Flew DJI Matrice 300 RTK flights to collect footage of wetland use by ducks and water birds  
 * Identified Arkansas waterbird species and ducks while flying 
 * Trained classifier in Darwin V7 to identify key species in forests & wetlands from drone images 
 * Created photogrammetry maps for stakeholders interested in how ducks used their land
