@@ -90,21 +90,28 @@ This work is funded in part by *Duck's Unlimited Canada, Field Inclusive Inc.,* 
 :::
 
 ## Remote Sensing
+
 :::{layout-ncol=2}
 
 :::{.left}
 
 ![Raccoon portrait](img/spring2026/WSCT5834.jpeg){.lightbox}
+
 ![Otter basking in the sun](img/spring2026/WSCT5642.jpeg){.lightbox}
+
 ![Jumping raccoon](img/spring2026/WSCT6530.jpg){.lightbox}
+
 ![Otter family](img/spring2026/WSCT9631.jpg){.lightbox}
 :::
 
 :::{.right}
 
 ![Mute Swan looking at camera](img/spring2026/WSCT0490.jpeg){.lightbox}
+
 ![Beavers](img/spring2026/WSCT4921.jpg){.lightbox}
+
 ![Family of raccoons](img/spring2026/WSCT3949.jpeg){.lightbox}
+
 :::
 
 :::
