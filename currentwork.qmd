@@ -95,22 +95,23 @@ This work is funded in part by *Duck's Unlimited Canada, Field Inclusive Inc.,* 
 
 :::{.left}
 
-![Raccoon portrait](img/spring2026/WSCT5834.jpeg){.lightbox}
+![Raccoon portrait](img/spring2026/WSCT5834.JPEG){.lightbox}
 
-![Otter basking in the sun](img/spring2026/WSCT5642.jpeg){.lightbox}
+![Otter basking in the sun](img/spring2026/WSCT5642.JPEG){.lightbox}
 
-![Jumping raccoon](img/spring2026/WSCT6530.jpg){.lightbox}
+![Jumping raccoon](img/spring2026/WSCT6530.JPG){.lightbox}
 
-![Otter family](img/spring2026/WSCT9631.jpg){.lightbox}
+![Otter family](img/spring2026/WSCT9631.JPG){.lightbox}
+
 :::
 
 :::{.right}
 
-![Mute Swan looking at camera](img/spring2026/WSCT0490.jpeg){.lightbox}
+![Mute Swan looking at camera](img/spring2026/WSCT0490.JPEG){.lightbox}
 
-![Beavers](img/spring2026/WSCT4921.jpg){.lightbox}
+![Beavers](img/spring2026/WSCT4921.JPG){.lightbox}
 
-![Family of raccoons](img/spring2026/WSCT3949.jpeg){.lightbox}
+![Family of raccoons](img/spring2026/WSCT3949.JPEG){.lightbox}
 
 :::
 
@@ -136,7 +137,6 @@ This work is funded in part by *Duck's Unlimited Canada, Field Inclusive Inc.,* 
 ![Springtime vegetation near the flux tower in Mayberry Slough](img/DJI_0729.JPG){.lightbox}
 
 ![Praying Mantis on a Flux Tower rainwater catcher](img/DSC07307.JPG){.lightbox}
-
 
 :::
 
