@@ -62,7 +62,7 @@ Finally, I have mentored four undergraduate students on their thesis projects in
 :::
 
 :::{.right}
-![Joohwan collecting water and soil samples in Twitchell Island](img/spring2026/IMG_5345.jpeg){.lightbox}
+![Joohwan collecting water and soil samples in Twitchell Island](img/spring2026/IMG_5345.JPG){.lightbox}
 ![Charlie catching dragonflies in Twitchell Island](img/IMG_4842.jpeg){.lightbox}
 ![Eden trawling for algae in Mayberry Slough](img/spring2026/DSC02020.jpg){.lightbox}
 

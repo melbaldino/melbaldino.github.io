@@ -1,0 +1,34 @@
+---
+title: "News"
+title-block-banner: img/DJI_0209.JPG
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+filters: 
+  - lightbox
+lightbox:
+  match: auto
+  desc-position: right
+  loop: true
+  css-class: "my-css-class"
+---
+# February 2026
+## Mel won a Field Inclusive Grant 
+Field Inclusive, Inc. has awarded Mel a travel grant that will assist them in completing field sampling for the Summer 2026 season. Field Inclusive, Inc. seeks to center and amplify the work, experiences, and voices of marginalized field researchers while making the natural sciences more accessible and equitable.
+
+
+## Mel's drone imagery used in a Science+Technology press release 
+This press release, announcing the publication of "A systematic map of methods for assessing societal benefits of Earth science information" by O'hara et al. in PNAS, chose to utilize Mel's drone imagery as a representation of Earth science information that can be utilized to assess social benefits of restored projects. You can find the press release [here](https://news.ucsb.edu/2026/022371/moving-beyond-money-measure-true-value-earth-science-information). 
+
+
+# January 2026
+## Mel won the Duck's Unlimited Bonnycastle Fellowship for Wetland and Waterfowl Research
+Duck's Unlimited Canada has awarded Mel [the Bonnycastle Fellowship for Wetland and Waterfowl Research](https://www.ducks.ca/iwwr/fellowships/bonnycastle-fellowship-for-wetland-waterfowl-research/), which supports young professionals working in conservation and wetland ecology. This funding will allow Mel to continue field sampling in the year of 2026 and purchase equipment necessary to collect and process remote sensing data in the wetlands. Mel is honored to be working with DU again after spending four months in Arkansas in 2022 creating a duck identifier from drone imagery for their surveying teams. 
+
+

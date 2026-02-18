@@ -19,6 +19,8 @@ website:
         text: Service
       - href: portfolio.qmd
         text: Portfolio
+      - href: news.qmd
+        text: News
       
 
 format:
