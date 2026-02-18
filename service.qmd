@@ -57,9 +57,9 @@ Finally, I have mentored four undergraduate students on their thesis projects in
 
 ![Julia measuring the height of Phragmites in Mayberry Slough](img/IMG_9969.jpeg){.lightbox}
 
-![Addie changing camera trap equipment in Dutch Slough](img/spring2026/DSC02453.jpg){.lightbox}
+![Addie changing camera trap equipment in Dutch Slough](img/spring2026_2/DSC02453.jpg){.lightbox}
 
-![Ethan and Aidan measuring tree heights in Mayberry Slough](img/spring2026/DSC03218.jpg){.lightbox}
+![Ethan and Aidan measuring tree heights in Mayberry Slough](img/spring2026_2/DSC03218.jpg){.lightbox}
 
 ![Joohwan catching crawfish in Whale's Mouth](img/spring2026/IMG_4653.jpeg){.lightbox}
 
@@ -71,7 +71,7 @@ Finally, I have mentored four undergraduate students on their thesis projects in
 
 ![Charlie catching dragonflies in Twitchell Island](img/IMG_4842.jpeg){.lightbox}
 
-![Eden trawling for algae in Mayberry Slough](img/spring2026/DSC02020.jpg){.lightbox}
+![Eden trawling for algae in Mayberry Slough](img/spring2026_2/DSC02020.jpg){.lightbox}
 
 ![Ethan measuring vegetation in Dutch Slough](img/spring2026/IMG_5418.jpeg){.lightbox}
 :::
